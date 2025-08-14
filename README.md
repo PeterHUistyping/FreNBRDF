@@ -51,7 +51,7 @@ A summary of the main methodology, i.e. how Frequency-Rectified Neural BRDFs are
             
 Inspired by prior work [FrePolad (ECCV'24)](https://github.com/Chenliang-Zhou/FrePolad), [HyperBRDF (ECCV'24)](https://github.com/faziletgokbudak/HyperBRDF) and [NeuMaDiff](https://arxiv.org/abs/2411.12015), we adopt MERL (2003) from [here](https://cdfg.csail.mit.edu/wojciech/brdfdatabase/), which contains reflectance functions of 100 different materials, as our main dataset. This dataset is ideal due to its diversity and data-driven nature, making it suitable for both statistical and neural-network-based methods. 
 
-It contains 100 measured real-world materials. Each BRDF is represented as a 90 × 90 × 180 × 3 floating-point array, mapping uniformly sampled input angles (θ_H , θ_D , ϕ_D ) under Rusinkiewicz reparametrization to reflectance values in R^3.
+It contains 100 measured real-world materials. Each BRDF is represented as a 90 × 90 × 180 × 3 floating-point array, mapping uniformly sampled input angles (θ_H , θ_D , ϕ_D) under Rusinkiewicz reparametrization to reflectance values in R^3.
    
 # Evaluation and visualization
 
