@@ -1,4 +1,4 @@
-[![Project page](https://img.shields.io/badge/project-page-red.svg)](https:/peterhuistyping.github.io/FreNBRDF/) [![arXiv](https://img.shields.io/badge/arXiv-2507.00476-orange.svg)](https://arxiv.org/abs/2507.00476)  [![MERL dataset](https://img.shields.io/badge/MERL-dataset-green.svg)](https://cdfg.csail.mit.edu/wojciech/brdfdatabase)
+[![Project page](https://img.shields.io/badge/project-page-red.svg)](https://peterhuistyping.github.io/FreNBRDF/) [![arXiv](https://img.shields.io/badge/arXiv-2507.00476-orange.svg)](https://arxiv.org/abs/2507.00476)  [![MERL dataset](https://img.shields.io/badge/MERL-dataset-green.svg)](https://cdfg.csail.mit.edu/wojciech/brdfdatabase)
 
 <!-- [![Python](https://img.shields.io/badge/Python3-Pytorch-blue.svg)] -->
 
@@ -15,7 +15,7 @@
 <p align="center"><small>† denotes equal contribution.</small></p>
 
 <p align="center">
-    <a href="https:/peterhuistyping.github.io/FreNBRDF/">[Project page]</a>  
+    <a href="https://peterhuistyping.github.io/FreNBRDF/">[Project page]</a>  
     <a href="https://arxiv.org/abs/2507.00476">[Paper]</a>
     <!-- <a href="https://huggingface.co/Peter2023HuggingFace/NeuMaDiff">[Base model weights]</a> -->
     <a href="https://cdfg.csail.mit.edu/wojciech/brdfdatabase">[MERL dataset]</a>
