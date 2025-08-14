@@ -8,9 +8,9 @@
 
 # FreNBRDF: A Frequency-Rectified Neural Material Representation
 
-<p align="center"><a href="https://chenliang-zhou.github.io">Chenliang Zhou</a>†, <a href="https://peterhuistyping.github.io/">Zheyuan Hu</a>†, <a href="https://www.cl.cam.ac.uk/~aco41/">Cengiz Öztireli</a></p>
+<p align="center"><a href="https://chenliang-zhou.github.io">Chenliang Zhou</a>†, <a href="https://peterhuistyping.github.io/">Zheyuan Hu</a>†, <a href="https://www.cl.cam.ac.uk/~aco41/">Cengiz Öztireli</a>.</p>
 
-<p align="center">Department of Computer Science and Technology<br>University of Cambridge</p>
+<p align="center">Department of Computer Science and Technology,<br>University of Cambridge.</p>
 
 <p align="center"><small>† denotes equal contribution.</small></p>
 
